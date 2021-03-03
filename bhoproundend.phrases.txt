@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"Prefix"
+	{
+		"en"			"[ {green}TAG {default}]"
+		"pt"			"[ {green}TAG {default}]"
+	}
+	"Turn On"
+	{
+		"en"			"{green}Bhop Enable{default}!"
+		"pt"			"{green}Bhop Ligado{default}!"
+	}
+	"Turn Off"
+	{
+		"en"			"{green}Bhop Disabled{default}!"
+		"pt"			"{green}Bhop Desligado{default}!"
+	}
+}
